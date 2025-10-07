@@ -46,15 +46,15 @@ This project enables secure authentication, user profile management, and graph-b
 
 linkedIn_Backend/
 ├── controllers/
-│ └── users.js
+│   └── users.js
 ├── models/
-│ └── users.js
+│   └── users.js
 ├── routes/
-│ └── users.js
+│   └── users.js
 ├── service/
-│ └── auth.js
+│   └── auth.js
 ├── middleWares/
-│ └── auth.js
+│   └── auth.js
 ├── database.js
 ├── neo4jDb.js
 ├── connect.js
@@ -67,9 +67,9 @@ linkedIn_Backend/
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/1Ankitk/linkedIn_Backend.git
 cd linkedIn_Backend
+
 2️⃣ Install dependencies
 npm install
 3️⃣ Set up environment variables
